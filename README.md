@@ -9,7 +9,6 @@ Welcome to the FurniShop repository! This project is a modern and stylish furnit
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -58,4 +57,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Elang M Riefki - [elangmra@gmail.com](mailto:elangmra@gmail.com)
 
-Project Link: [https://elangmra.github.io/mvp-landing-page/]([https://github.com/your-username/furnishop](https://elangmra.github.io/mvp-landing-page/))
+Project Link: [https://elangmra.github.io/mvp-landing-page/](https://elangmra.github.io/mvp-landing-page/)
